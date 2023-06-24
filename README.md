@@ -28,7 +28,8 @@ vrf_coordinator: '0x2bce784e69d2Ff36c71edcB9F88358dB0DfB55b4'
 link_token: '0x326C977E6efc84E512bB9C30f76E30c160eD06FB'
 keyhash: '0x0476f9a745b61ea5c0ab224d3a6e4c99f0b02fce4da01143a4f70aa80ae76e8a'
 fee: 100000000000000000
-# v2  keyhash: '0x79d3d8832d904592c0bf9818b621522c988bb8b0c05cdc3b15aea1b6e8db0c15' please know it
+
+v2  keyhash: '0x79d3d8832d904592c0bf9818b621522c988bb8b0c05cdc3b15aea1b6e8db0c15' please know it
 please read bug weblink,you will know what i say.
 https://docs.chain.link/docs/vrf/v1/supported-networks/
 https://stackoverflow.com/questions/71194882/execution-reverted-during-call-this-transaction-will-likely-revert-if-you-wish
